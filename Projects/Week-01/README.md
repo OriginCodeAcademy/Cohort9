@@ -112,7 +112,7 @@ Install either Windows or Mac version of Node:
 
 The following plugins are useful:
 * [ ] [file-icons](https://atom.io/packages/file-icons) - Add file extensions and icons.
-* [ ] [linter](https://atom.io/packages/linter) - Visualize errors in your code and other kind-of messages, easily.
+* [ ] [linter-master](https://atom.io/packages/linter) - Visualize errors in your code and other kind-of messages, easily.
 * [ ] [emmet](https://atom.io/packages/emmet) - Improves HTML & CSS workflow with shortcuts to snippets of HTML.
 * [ ] [minimap](https://atom.io/packages/minimap) - A preview of the full source code.
 * [ ] [merge-conflicts](https://atom.io/packages/merge-conflicts) - Merge conflict resolution tool.
