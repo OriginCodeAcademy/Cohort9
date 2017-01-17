@@ -107,18 +107,20 @@ Install either Windows or Mac version of Node:
 * [ ] [Node Version Manager (MAC/Linux)](https://github.com/creationix/nvm#install-script) allows you to have more than one version of [NodeJS](https://www.nodejs.org/) installed at one time on a Mac or Linux machine.  Install the 6.x LTS version of the swiss army knife of programming.
 * [ ] [Node Version Manager (Windows)](https://github.com/coreybutler/nvm-windows) allows you to have more than one version of [NodeJS](https://www.nodejs.org/) installed at one time on a Windows machine.  Install the 6.x LTS version of the swiss army knife of programming.
 
+
 #### Atom Plugin Recommends
 
-[file-icons](https://atom.io/packages/file-icons) - Add file extensions and icons.
-[linter](https://atom.io/packages/linter) - Visualize errors in your code and other kind-of messages, easily.
-[emmet](https://atom.io/packages/emmet) - Improves HTML & CSS workflow with shortcuts to snippets of HTML.
-[minimap](https://atom.io/packages/minimap) - A preview of the full source code.
-[merge-conflicts](https://atom.io/packages/merge-conflicts) - Merge conflict resolution tool.
-[docblockr](https://atom.io/packages/docblockr) - Quickly start documenting your code.
+The following plugins are useful:
+* [ ] [file-icons](https://atom.io/packages/file-icons) - Add file extensions and icons.
+* [ ] [linter](https://atom.io/packages/linter) - Visualize errors in your code and other kind-of messages, easily.
+* [ ] [emmet](https://atom.io/packages/emmet) - Improves HTML & CSS workflow with shortcuts to snippets of HTML.
+* [ ] [minimap](https://atom.io/packages/minimap) - A preview of the full source code.
+* [ ] [merge-conflicts](https://atom.io/packages/merge-conflicts) - Merge conflict resolution tool.
+* [ ] [docblockr](https://atom.io/packages/docblockr) - Quickly start documenting your code.
 
 To install packages and themes, just use Preferences > Settings > Install
 
-. So the process would be:
+So the process would be:
 
 * cmd + ,
 * Look for Settings and then click: Install
