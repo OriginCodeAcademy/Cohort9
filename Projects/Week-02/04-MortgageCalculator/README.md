@@ -38,7 +38,7 @@ The San Diego real estate market is an excellent place to invest your extra cash
         numberOfPayments = loanTerm * period
 
         // compounded interest rate
-        compoundedIntestRate = Math.pow((1 + monthlyInterestRate), numberOfPayments)
+        compoundedInterestRate = Math.pow((1 + monthlyInterestRate), numberOfPayments)
 
         // interest quotient
         interestQuotient  = (monthlyInterestRate * compoundedInterestRate) / (compoundedIntestRate - 1)
