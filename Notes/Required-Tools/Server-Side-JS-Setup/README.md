@@ -1,8 +1,7 @@
 
 ### Install Bower and Gulp globally
 ```
-npm install –g bower
-npm install –g gulp
+npm install -g gulp bower
 ```
 ### Setup a demo app
 
@@ -89,12 +88,7 @@ You should see two installs, one local and one CLI:
 ```
 Install the following:
 ```
-npm install gulp-livereload --save
-npm install wiredep --save
-npm install gulp-util --save
-npm install gulp-connect --save
-npm install gulp-inject --save
-npm install gulp-open --save
+npm install gulp-livereload wiredep gulp-util gulp-connect gulp-inject gulp-open --save
 ```
 If all goes well, your package.json should have entries for all your locally installed packages and it should look like this:
 ```javascript
