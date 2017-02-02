@@ -16,6 +16,7 @@
 #### Atom Plugins Recommended
 
 The following plugins are useful:
+* [ ] [angularjs-styleguide-snippets](https://atom.io/packages/angularjs-styleguide-snippets) - Angular code snippets that follow the John Papa standard.
 * [ ] [file-icons](https://atom.io/packages/file-icons) - Add file extensions and icons.
 * [ ] [linter-master](https://atom.io/packages/linter) - Visualize errors in your code and other kind-of messages, easily.
 * [ ] [emmet](https://atom.io/packages/emmet) - Improves HTML & CSS workflow with shortcuts to snippets of HTML.
