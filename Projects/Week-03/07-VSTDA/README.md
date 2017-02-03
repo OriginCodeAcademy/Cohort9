@@ -12,7 +12,7 @@ The app will then allow users to sort their todo items based on the priority, or
   - Initialize an empty git repository in `VSTDA` by running `git init` in the command prompt.
   - Create a repository on GitHub called `VSTDA` and follow the instructions to add a remote origin.
   - Push up a master branch, and then create a feature branch to complete the assignment.
-3. Open this folder in your favorite text editor (Ours is Sublime!)
+3. Open this folder in your favorite text editor (Ours is Atom!)
 4. Create an `index.html` file with the gulp-inject comments needed to inject the script and link tags for your application dependencies and custom html, js and css. Add gulpfile.js, package.json and bower.json and the needed directory structure to support auto-reload and script injection during local development. Add a .gitignore file to the root directory to exclude the `bower_components and node_modules` folders from version control.
 5. Design your HTML page using the Bootstrap design framework. The attached screenshots are design suggestions but you are free to be creative with the final look and feel of the project.
 6. Make use of the following AngularJS features to build this application.
