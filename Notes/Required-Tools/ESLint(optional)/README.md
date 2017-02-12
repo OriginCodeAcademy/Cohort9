@@ -8,7 +8,7 @@
 
 * Install the Atom [ES-Lint Plugin](https://github.com/AtomLinter/linter-eslint)
 
-* In your project add the linter plugins to your `package.json` file.
+* In your project(s) add the dependencies by updating your `package.json` file(s).
 
 ```
 "devDependencies": {
@@ -27,7 +27,7 @@
 npm install
 ```
 
-* In your project folder create a `.eslintrc` file.  It is recommended that you follow the AirBnB style guide.  When writing ES5 Javascript add the following:
+* In each of your project folders create a `.eslintrc` file.  I recommended that you follow the AirBnB style guide.  When developing apps using ES5 Javascript add the following:
 
 ```
 {
