@@ -27,7 +27,7 @@
 npm install
 ```
 
-* In each of your project folders create a `.eslintrc` file.  I recommended that you follow the AirBnB style guide when developing apps using ES5 Javascript add the following:
+* In each of your project folders create a `.eslintrc` file.  I recommended that you follow the [AirBnB style guide](https://github.com/airbnb/javascript/tree/es5-deprecated/es5).  If you are developing apps using ES5 Javascript add the following:
 
 ```
 {
