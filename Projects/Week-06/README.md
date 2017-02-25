@@ -24,5 +24,7 @@ https://www.asp.net/web-api/overview/security/enabling-cross-origin-requests-in-
 
 * And add the following code to `WebApiConfig.cs` at the beginning of the `Register` method
 
+```
 var policy = new EnableCorsAttribute("*", "*", "*");
 config.EnableCors(policy);
+```
